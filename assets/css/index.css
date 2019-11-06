@@ -1,0 +1,33 @@
+.latest-article{
+  padding-left: 0.5rem;
+}
+.article-title{
+  font-size: 1.6rem;
+  padding: 0 0.5rem;
+}
+.list-title{
+  font-size: 1.5rem;
+}
+.type-text{
+  color: #000;
+}
+.type-link{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.type-img{
+  width: 20%;
+  height: 20%;
+  margin-right: .8rem;
+}
+.article-header{
+  display: flex;
+  justify-content: space-between;
+}
+.article-header span{
+  line-height: 2.4rem;
+  margin-right: .5rem;
+  cursor: pointer;
+}
+

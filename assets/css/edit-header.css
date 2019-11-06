@@ -1,0 +1,8 @@
+.edit-right{
+  display: flex;
+  justify-content: space-around;
+}
+.edit-left{
+  display: flex;
+  justify-content: flex-end;
+}
